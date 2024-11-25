@@ -1,0 +1,103 @@
+
+.navc{
+    position: fixed ;
+    top: 0;
+    left: 0;
+    width: 100%;
+z-index: 2000;
+}
+.nav1 .a{
+    font-family: Verdana, sans-serif;
+    color: rgb(0, 0, 0);
+}
+.nav2:hover{
+background-color: rgb(154, 154, 154);
+padding: px;
+}
+.nav2{
+letter-spacing: 3px;
+}
+.body{
+   
+    font-family: Verdana, sans-serif;
+}
+.a1:hover{
+
+    background-color: rgb(154, 154, 154);
+
+}
+.a2:hover{
+
+    background-color: rgb(154, 154, 154);
+
+}
+.a3:hover{
+    background-color: rgb(154, 154, 154);
+
+    
+}
+.a1{
+    letter-spacing: 3px;
+}
+.a3{
+    letter-spacing: 3px;
+}
+.a2{
+    letter-spacing: 3px;
+}
+.imgb{
+   background-image: url("../img/architect.jpg");
+   background-repeat: no-repeat;
+   height: 100vh;
+   position: relative;
+}
+.spam{
+    position: absolute;
+    font-family: Verdana, sans-serif;
+   right: 520px;
+    top: 270px;
+    color: white;
+    opacity: .8;
+}
+.imgv{
+    position: relative;
+}
+
+.blak{
+    position: absolute;
+    z-index: 2929;
+    background-color: black;
+    color: white;
+    left: 4%;
+    top: 0;
+}
+.vv{
+    color: black;
+background-color: rgb(239, 237, 237);
+width: 100%;
+}
+.vv:hover{
+    background-color: rgb(202, 202, 202);
+    color: black;
+}
+.mm{
+    filter: grayscale(60%);
+}
+.kk{
+    background-color: black;
+    color: white;
+}
+.kk:hover{
+    background-color: rgb(189, 187, 187);
+    color: black;
+}
+.imgf{
+   background-repeat: no-repeat;
+}
+.pp{
+background-color: black;
+color: white;
+}
+.aa{
+    color: white;
+}
